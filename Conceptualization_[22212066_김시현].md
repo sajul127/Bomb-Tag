@@ -1,13 +1,16 @@
 #1. Conceptualization
 
-(As long as it ain't me~)
-(22212066, 김시현, rlatlgus127@gmail.com)
+**Project Title**:Bomp-Tag
+<br/><br/>
+![Image](https://github.com/user-attachments/assets/b9068037-94cd-4ddd-8ab4-ee5f91be054e)
+
+**Student Info**: (22212066, 김시현, rlatlgus127@gmail.com)
 
 ### [ Revision history ]
 
 | Revision date | Version # | Description | Author |
 | --- | --- | --- | --- |
-| 03/22/2026 | 0.01 | Type brief description here | Author name |
+| 03/27/2026 | 0.01 | Type brief description here | Author name |
 
 ---
 
@@ -47,6 +50,8 @@
 ---
 
 ## 2. System context diagram
+<br/><br/>
+![Image](https://github.com/user-attachments/assets/c21b94da-0ec0-4bd1-ad1f-3c31b1221327)
 
 ```text
 Login: 로그인
